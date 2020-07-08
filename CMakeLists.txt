@@ -43,7 +43,9 @@ add_message_files(
   FILES
   ERAMsg.msg
   DetectionBox.msg
+  AttenuationMsg.msg
   DetectionBoxList.msg
+  DistanceMsg.msg
 )
 
 add_service_files(
