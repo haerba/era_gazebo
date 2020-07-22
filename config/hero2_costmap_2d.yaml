@@ -1,7 +1,7 @@
 global_frame: map
 robot_base_frame: hero2
-update_frequency: 5.0
-publish_frequency: 5.0
+update_frequency: 7.0
+publish_frequency: 7.0
 rolling_window: true
 always_send_full_costmap: true
 static_map: false
